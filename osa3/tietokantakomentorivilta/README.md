@@ -1,0 +1,1 @@
+osan 3 tietokantaa käsittelevän tehtävän 3.12 node-koodi tähän hakemistoon
