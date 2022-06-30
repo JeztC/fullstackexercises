@@ -1,0 +1,1 @@
+osan 4 blogilistan testejä käsittelevän tehtävän 4.8-4.12 koodi tähän hakemistoon
