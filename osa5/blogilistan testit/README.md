@@ -1,0 +1,1 @@
+osan 5 blogilistan testejä käsittelevän tehtävän 5.13-5.16 koodi tähän hakemistoon

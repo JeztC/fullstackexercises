@@ -1,0 +1,1 @@
+osan 5 blogilistan testejä käsittelevän tehtävän 5.17-5.22 koodi tähän hakemistoon
