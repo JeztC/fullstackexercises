@@ -1,0 +1,1 @@
+osan 6 anekdoottien ja connectin käsittelevän tehtävän 6.19-6.21 koodi tähän hakemistoon

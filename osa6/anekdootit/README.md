@@ -1,0 +1,1 @@
+osan 6 anekdootteja käsittelevän tehtävän 6.3-6.12 koodi tähän hakemistoon

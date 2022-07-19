@@ -1,0 +1,1 @@
+osan 6 reduxia käsittelevän tehtäväsarjan frontend- ja backend koodit tähän hakemistoon

@@ -1,0 +1,1 @@
+osan 6 anekdoottien ja backendin käsittelevän tehtävän 6.13-6.18 koodi tähän hakemistoon

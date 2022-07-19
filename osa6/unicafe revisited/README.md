@@ -1,0 +1,1 @@
+osan 6 unicafea käsittelevän tehtävän 6.1-6.2 koodi tähän hakemistoon
