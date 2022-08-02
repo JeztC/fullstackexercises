@@ -1,0 +1,1 @@
+osan 7 anekdoottisovelluksen käsittelevän tehtävän 7.1-7.6 koodi tähän hakemistoon

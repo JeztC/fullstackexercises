@@ -1,0 +1,1 @@
+osan 7 blogilistan käsittelevän tehtävän 7.9-7.21 koodi tähän hakemistoon
