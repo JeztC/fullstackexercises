@@ -1,0 +1,1 @@
+osan 8 graphql:n käsittelevän tehtäväsarjan koodit tähän hakemistoon

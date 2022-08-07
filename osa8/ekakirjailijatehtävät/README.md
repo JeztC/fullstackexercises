@@ -1,0 +1,1 @@
+osan 8 reactin ja graphql:n käsittelevän tehtävän 8.8.-8.12. koodi tähän hakemistoon

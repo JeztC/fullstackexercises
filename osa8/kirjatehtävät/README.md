@@ -1,0 +1,1 @@
+osan 8 graphql-palvelimen käsittelevän tehtävän 8.1.-8.7. koodi tähän hakemistoon

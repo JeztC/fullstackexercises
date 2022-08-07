@@ -1,0 +1,1 @@
+osan 8 subscription clientin käsittelevän tehtävän 8.23.-8.26. koodi tähän hakemistoon
