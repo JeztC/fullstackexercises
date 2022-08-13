@@ -1,0 +1,1 @@
+osan 9 typescriptin käsittelevän tehtäväsarjan koodit tähän hakemistoon

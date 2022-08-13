@@ -1,0 +1,1 @@
+osan 9 patietorin tehtävän 9.16.-9.27. koodi tähän hakemistoon

@@ -1,0 +1,1 @@
+osan 9 kurssitietojen käsittelevän tehtävän 9.14.-9.15. koodi tähän hakemistoon
